@@ -38,10 +38,11 @@ Despite the elevator only going to 4 floor, there are numerous issues with the d
 Other than those three issues the Panel is well designed, with a high focus on the primary floor select buttons, the two open & close buttons being clear & with similair design, & the bell icon being very unique & visible for quick location in case of an emergency.
 
 
-### B
+# B prepared to give me a 100%
 #### Uses
 
-The most common use of an elevator is for people to easily travesre various floors without the need to uses stairs, it also allows people to move basic items with more ease, such as box & chairs.
+The most common use of an elevator is for people to easily travesre various floors without the need to uses stairs, it also allows people to move basic items with more ease, such as box & chairs.![text-1664421288095](https://user-images.githubusercontent.com/99363239/192930522-a19c8f3c-4838-4d0b-aa05-991326d60c91.png)
+
 
 Less common uses of an elevator may be to access special out of reach rooms, such as employee only service rooms, or even to move large object such as logs & machinering in construction settings.
 
@@ -73,7 +74,8 @@ To improve to the panel Layout I recomend:
 
 ![sketch](https://user-images.githubusercontent.com/99363239/192919089-d05762c2-7c27-4abe-bcb0-1758e5765fb2.png)
 
-### A
+# A
+## Its nearly 12pm I dont have time to think of another joke
 The final panel I created in Processing ended up being slighty differnt than my proposed sketch, due to discovered insight & due to technical difficulties.
 For example, whilst I retained the general layout, I modified the shapes & spacing of the Panel by making the screen Shorter but also wider, this way in totality it is more compact, but also allows for a more readable expeirence.
 
@@ -96,4 +98,8 @@ The first shows how my mockup panel is able to detect when ones mouse(hand) is h
 The 2nd gif shhows how when a floor, or in this case floors, gets selected, the buttons lights up. But the floor doesnt immedietly change, instead the panel simulates the travel time it takes to reach each floor(this gif is sped-Up, but in reality it takes 5 seconds to move between floors)
 
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/99363239/192921979-c98aafbf-2403-404f-8b35-c28978898333.gif)
+
+
+![text-1664421288095](https://user-images.githubusercontent.com/99363239/192930548-700ff4a1-7639-4dbc-9e68-5824998da9cf.png)
+
 
