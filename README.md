@@ -7,9 +7,14 @@
 ### Links
 ![Hotlinks png](https://user-images.githubusercontent.com/99363239/192929592-3a4a6cba-0766-48f0-848b-adb479938e4a.png)
 
-Presentation: https://joshuawest1.github.io/p1.Joshua.West/
+Presentation: (https://joshuawest1.github.io/p1.Joshua.West/)
 
-GitHub Repository: https://github.com/JoshuaWest1/p1.Joshua.West.git
+GitHub Repository: (https://github.com/JoshuaWest1/p1.Joshua.West.git)
+
+Presentation: [https://joshuawest1.github.io/p1.Joshua.West/]
+
+GitHub Repository: [https://github.com/JoshuaWest1/p1.Joshua.West.git]
+
 
 Zip WITH AUDIO: [p1_Joshua_West_WITH_AUDIO.zip](https://github.com/JoshuaWest1/p1.Joshua.West/files/9670822/p1_Joshua_West_WITH_AUDIO.zip)
 
