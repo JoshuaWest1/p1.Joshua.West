@@ -73,21 +73,27 @@ To improve to the panel Layout I recomend:
 
 ![sketch](https://user-images.githubusercontent.com/99363239/192919089-d05762c2-7c27-4abe-bcb0-1758e5765fb2.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### A
+The final panel I created in Processing ended up being slighty differnt than my proposed sketch, due to discovered insight & due to technical difficulties.
+For example, whilst I retained the general layout, I modified the shapes & spacing of the Panel by making the screen Shorter but also wider, this way in totality it is more compact, but also allows for a more readable expeirence.
+
+I also bunched the buttons closer together, that way they are more reachable for a slightly wider range of users.
+
+But unfortuanly there were some hiccups in the process, I, either due to my ineptidute or due to the limitations of Processing, wasnt able to include the GIF I made for changing floors( I posted it below because I still like it). So in its place I instead used a white vertical bar that moves in accordance to the current floor, this way current floor will be usable by users who both can read the current loor message, but also by those who cant, but can infer that the bar coresponds with the floor.
+
+![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/99363239/192927965-505dc842-dcef-43e6-a1eb-c424a9fbcbec.gif)
+![eleSTILL](https://user-images.githubusercontent.com/99363239/192926323-a060239a-f61f-428b-a4d8-56b431c7a520.PNG)
 
 
 
-https://github.com/JoshuaWest1/p1.Joshua.West.git
+
+Below are two gifs showing the functions of my Panel
+
+The first shows how my mockup panel is able to detect when ones mouse(hand) is hovering above the buttons, as well as, once clicked, the buttons light up letting the user know that they have managed to select a Button.
+
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/99363239/192922406-97863831-70df-4dae-a9b3-73260ceb5a13.gif)
+
+The 2nd gif shhows how when a floor, or in this case floors, gets selected, the buttons lights up. But the floor doesnt immedietly change, instead the panel simulates the travel time it takes to reach each floor(this gif is sped-Up, but in reality it takes 5 seconds to move between floors)
+
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/99363239/192921979-c98aafbf-2403-404f-8b35-c28978898333.gif)
+
