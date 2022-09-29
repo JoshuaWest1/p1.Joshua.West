@@ -5,7 +5,7 @@
  <br></br>
  
 ### Links
-![Hotlinks png](https://user-images.githubusercontent.com/99363239/192929592-3a4a6cba-0766-48f0-848b-adb479938e4a.png)
+![hotlinks](https://user-images.githubusercontent.com/99363239/193041916-fca2f891-d22f-40f9-8059-53038e3eecbe.png)
 
 Presentation: 
 https://joshuawest1.github.io/p1.Joshua.West/
