@@ -60,7 +60,18 @@ The main point of feedback present within this panel is that whenever a button h
 #### Mistakes
 Since the Floor Numbers & their backgrounds are both colored black, a user may mistakenly chose a floor they didnt not want due to them being unable to read the floor numbers properly.
 
+#### Improvments
+To improve to the panel Layout I recomend:
 
+1.) Changing the 2x1 rectangular button layout to label buttons instead. This why your button number will be directly over its correlating button & will be more immedietly understandable.
+
+2.) Change the button layout from a 2x2 square of buttons to a vertical line of inreasing buttons, that way even if someone can't read/undestand the numbers on the panel, they can still infer that that bottom button is Floor 1 & the top buttom is Floor 4.
+
+3.) Do a simailr method for the secondary & tertiary buttons but further to the right, this is to keep the format symmetrical and easilly reachable
+
+4.) Between the 2 button sets should be a screen, this could relay info such as Current floor, upcoming floors, etc.
+
+![sketch](https://user-images.githubusercontent.com/99363239/192919089-d05762c2-7c27-4abe-bcb0-1758e5765fb2.png)
 
 
 
