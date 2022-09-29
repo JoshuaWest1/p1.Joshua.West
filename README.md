@@ -106,6 +106,6 @@ The 2nd gif shhows how when a floor, or in this case floors, gets selected, the 
 
 
 
-https://user-images.githubusercontent.com/99363239/192931302-72105155-dba4-4e0f-8a44-957e0ef75f88.mp4
+![Watch the video](https://user-images.githubusercontent.com/99363239/192931302-72105155-dba4-4e0f-8a44-957e0ef75f88.mp4)
 
 
