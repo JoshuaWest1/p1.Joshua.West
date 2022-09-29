@@ -1,4 +1,9 @@
 # p1.Joshua.West
+
+## I have posted 2 different PDEs, one named as required and one name WITH _AUDIO, techniccally the WITH_AUDIO version is the true correct version, however I Processing is finicky with Libraries
+### (even though the AudioLibrary is official & made by Proccessing Organization) 
+ <br></br>
+ 
 ### Links
 ![Hotlinks png](https://user-images.githubusercontent.com/99363239/192929592-3a4a6cba-0766-48f0-848b-adb479938e4a.png)
 
@@ -98,11 +103,112 @@ The first shows how my mockup panel is able to detect when ones mouse(hand) is h
 The 2nd gif shhows how when a floor, or in this case floors, gets selected, the buttons lights up. But the floor doesnt immedietly change, instead the panel simulates the travel time it takes to reach each floor(this gif is sped-Up, but in reality it takes 5 seconds to move between floors)
 
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/99363239/192921979-c98aafbf-2403-404f-8b35-c28978898333.gif)
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+  <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+
 
 
 ![text-1664421288095](https://user-images.githubusercontent.com/99363239/192930548-700ff4a1-7639-4dbc-9e68-5824998da9cf.png)
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br> <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+
+
 ![text-1664421399614](https://user-images.githubusercontent.com/99363239/192930893-b29eba7d-9f4e-4bcd-9528-b0813f87d7b8.png)
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br> <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+
+
 ![text-1664421445857](https://user-images.githubusercontent.com/99363239/192930898-58f20451-aae8-4638-b1e2-27771e52567a.png)
+ <br></br>
+ <br></br>
+ <br></br> <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+
+
 
 https://user-images.githubusercontent.com/99363239/192931302-72105155-dba4-4e0f-8a44-957e0ef75f88.mp4
 
