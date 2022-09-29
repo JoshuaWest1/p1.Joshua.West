@@ -9,8 +9,7 @@ GitHub Repository: https://github.com/JoshuaWest1/p1.Joshua.West.git
 Demo:
 
 
-### C
-
+# Cs Get Degrees
 These are images from the Elevator at my job in Fort Worth 
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/99363239/192914724-e7fcd9c2-571e-40fe-8f60-02a278bf6815.png)
