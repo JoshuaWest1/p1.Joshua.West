@@ -41,7 +41,7 @@ Other than those three issues the Panel is well designed, with a high focus on t
 # B prepared to give me a 100%
 #### Uses
 
-The most common use of an elevator is for people to easily travesre various floors without the need to uses stairs, it also allows people to move basic items with more ease, such as box & chairs.![text-1664421288095](https://user-images.githubusercontent.com/99363239/192930522-a19c8f3c-4838-4d0b-aa05-991326d60c91.png)
+The most common use of an elevator is for people to easily travesre various floors without the need to uses stairs, it also allows people to move basic items with more ease, such as box & chairs.
 
 
 Less common uses of an elevator may be to access special out of reach rooms, such as employee only service rooms, or even to move large object such as logs & machinering in construction settings.
@@ -101,5 +101,11 @@ The 2nd gif shhows how when a floor, or in this case floors, gets selected, the 
 
 
 ![text-1664421288095](https://user-images.githubusercontent.com/99363239/192930548-700ff4a1-7639-4dbc-9e68-5824998da9cf.png)
+![text-1664421399614](https://user-images.githubusercontent.com/99363239/192930893-b29eba7d-9f4e-4bcd-9528-b0813f87d7b8.png)
+![text-1664421445857](https://user-images.githubusercontent.com/99363239/192930898-58f20451-aae8-4638-b1e2-27771e52567a.png)
+
+
+
+https://user-images.githubusercontent.com/99363239/192931302-72105155-dba4-4e0f-8a44-957e0ef75f88.mp4
 
 
