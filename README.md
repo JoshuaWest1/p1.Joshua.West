@@ -10,11 +10,15 @@ Demo:
 
 ### C
 
-These are images from the Elevator at my job in Fort Worth
+These are images from the Elevator at my job in Fort Worth 
 
-image 1
-image 2
-image 3
+![output-onlinepngtools](https://user-images.githubusercontent.com/99363239/192914724-e7fcd9c2-571e-40fe-8f60-02a278bf6815.png)
+![output-onlinepngtools (1)](https://user-images.githubusercontent.com/99363239/192915004-5f21b39b-be91-44d1-9bc9-6ed07f33c69f.png)
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/99363239/192916133-3d9352f4-60ad-47d5-82e5-324107d95644.gif)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/99363239/192916691-f2f46386-1815-40fd-9e55-b8a289c58fda.gif)
+
+
 
 gif 1 & 2
 
